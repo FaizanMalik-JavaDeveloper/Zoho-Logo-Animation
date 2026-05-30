@@ -120,12 +120,13 @@ body {
   box-shadow: 0 30px 60px rgba(0, 255, 0, 0.5);
 }
 
-.main:hover .sub3 {
-  transform: translate(-280px, 140px) rotate(25deg) scale(0.8);
+.main:hover .sub3{
 
-  filter: brightness(1.2);
+    transform: translate(-450px,140px) rotate(25deg) scale(.8);
 
-  box-shadow: 0 30px 60px rgba(0, 140, 255, 0.5);
+    filter:brightness(1.2);
+
+    box-shadow: 0 30px 60px rgba(0,140,255,.5);
 }
 
 .main:hover .sub4 {
